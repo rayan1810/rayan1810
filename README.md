@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Studying Computer Science Engineering from Chitkara University.
 - 💼 &nbsp; Full Stack Developer.
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence .
-- ☕ &nbsp; I'm `It’s not a bug – it’s an undocumented feature` kinda person 😂
+- ☕ &nbsp; Programmer: A machine that turns coffee into code. 😂
 
 <h3>🛠 Tech Stack</h3>
 
