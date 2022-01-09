@@ -3,17 +3,17 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently working as an Intern on React Native at [Geekyants](https://geekyants.com)
+- 🔭 &nbsp; I’m a Software Engineer at [Geekyants](https://geekyants.com) developing NativeBase.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Science Engineering from Chitkara University.
+- 🎓 &nbsp; Studied Computer Science Engineering from Chitkara University.
 - 💼 &nbsp; Full Stack Developer.
-- 🌱 &nbsp; Enthusiast in Artificial Intelligence .
+- 🌱 &nbsp; Enthusiast in Artificial Intelligence and Computer Vision.
 - ☕ &nbsp; Programmer: A machine that turns coffee into code. 😂
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++ 
-- 🌐 &nbsp; React | flutter | HTML | CSS | JavaScript | Bootstrap | Laravel
+- 💻 &nbsp; Python | JavaScript | Java | C++ 
+- 🌐 &nbsp; React | React Native | HTML | CSS | Bootstrap | Laravel
 - 🛢 &nbsp; MySQL | Mongo | Xampp
 - 🔧 &nbsp; Visual Studio code | Git | OpenCV | 
 
