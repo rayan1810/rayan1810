@@ -12,7 +12,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | JavaScript | Java | C++ 
+- 💻 &nbsp; JavaScript | Python | Java | C++ 
 - 🌐 &nbsp; React | React Native | HTML | CSS | Bootstrap | Laravel
 - 🛢 &nbsp; MySQL | Mongo | Xampp
 - 🔧 &nbsp; Visual Studio code | Git | OpenCV | 
