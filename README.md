@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m a Software Engineer at [Geekyants](https://geekyants.com) developing Gluestack ecosystem prev: NativeBase.
+- 🔭 &nbsp; I’m a React Native Engineer at [Tria](https://tria.so) Onboarding the world to Web3 using names, prev: NativeBase & Gluestack @Geekyants.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studied Computer Science Engineering from Chitkara University.
 - 💼 &nbsp; Frontend Engineer.
