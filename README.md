@@ -1,4 +1,8 @@
 <h2> Hey there! I'm Rohit. 🤗</h2>
+
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=pink)](https://github.com/sponsors/rayan1810)
+
+  
 <img align="right" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
